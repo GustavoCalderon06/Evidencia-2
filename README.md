@@ -22,7 +22,7 @@ java etc
 bla bla bla
 
 ## Contribuyendo 🖇️
-Yo ✒️
+Joaquín Ortiz✒️
 
 ## Wiki 📖
 
@@ -47,4 +47,3 @@ Yo ✒
 
 Gustavo Calderon
 Leandro Pino
-Joaquin Ortiz

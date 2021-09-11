@@ -8,7 +8,7 @@ bla bla bla bla
 
 ### Pre-requisitos 📋
 
-bla bla bla bla
+bla bla bla blaa
 
 ### Instalación 🔧
 bla bla bla bla
